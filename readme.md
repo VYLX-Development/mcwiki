@@ -21,7 +21,8 @@ To get started with MCWiki, clone this repository and navigate to the documentat
 
 ```bash
 git clone https://github.com/Vylx-Development/mcwiki.git
-cd mcwiki```
+cd mcwiki
+```
 
 Open the `README.md` file to get an overview of the project's structure and available resources.
 
