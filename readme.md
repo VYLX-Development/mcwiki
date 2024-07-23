@@ -85,8 +85,3 @@ If you have any questions or need further assistance, feel free to reach out to 
 - **GitHub:** [MCWiki GitHub](https://github.com/Vylx-Development/mcwiki)
 
 Thank you for your interest in contributing to the MCWiki project!
-
-### Adjustments:
-- **Repository URL:** Updated to `https://github.com/Vylx-Development/mcwiki`.
-- **Contact Email:** Replace `me@ld338.de` with your preferred contact email if needed.
-- **GitHub Link:** Updated to `https://github.com/Vylx-Development/mcwiki`.
