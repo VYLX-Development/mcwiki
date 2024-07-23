@@ -38,13 +38,15 @@ We welcome contributions from everyone! Here’s how you can contribute to the M
 
    ```bash
    git clone https://github.com/your-username/mcwiki.git
-   cd mcwiki```
+   cd mcwiki
+   ```
 
 3. **Create a New Branch:**
    Create a new branch for your feature or bug fix:
 
    ```bash
-   git checkout -b your-feature-branch```
+   git checkout -b your-feature-branch
+   ```
 
 4. **Make Changes:**
    Edit files and make your changes. Be sure to follow our [Code of Conduct](#code-of-conduct) and coding style guidelines.
@@ -54,13 +56,15 @@ We welcome contributions from everyone! Here’s how you can contribute to the M
 
    ```bash
    git add .
-   git commit -m "Add a new feature or fix a bug"```
+   git commit -m "Add a new feature or fix a bug"
+   ```
 
 6. **Push Your Branch:**
    Push your branch to your fork on GitHub:
 
    ```bash
-   git push origin your-feature-branch```
+   git push origin your-feature-branch
+   ```
 
 7. **Create a Pull Request:**
    Go to the original repository and click on "New Pull Request". Provide a clear description of your changes and submit your pull request.
