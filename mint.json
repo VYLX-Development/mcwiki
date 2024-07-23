@@ -1,5 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
+  "feedback.thumbsRating": true,
   "name": "MCWIKI",
   "logo": {
     "dark": "/logo/MCWIKI.png",
