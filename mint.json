@@ -1,0 +1,80 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "MCWIKI",
+  "logo": {
+    "dark": "/logo/MCWIKI.png",
+    "light": "/logo/MCWIKIwhite.png"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373",
+    "anchors": {
+      "from": "#0D9373",
+      "to": "#07C983"
+    }
+  },
+  "topbarLinks": [],
+  "topbarCtaButton": {
+    "name": "Contribute",
+    "url": "/contributing"
+  },
+  "tabs": [],
+  "anchors": [],
+  "navigation": [
+    {
+      "group": "Introduction",
+      "pages": [
+        "introduction",
+        "contributing"
+      ]
+    },
+    {
+      "group": "Tutorials",
+      "pages": [
+        "tutorials/aikars-flags",
+        "tutorials/give-yourself-operator-op-status",
+        "tutorials/installing-geyser-with-floodgate",
+        "tutorials/optimization-guide",
+        "tutorials/set-default-game-mode",
+        "tutorials/set-up-a-flat-world",
+        "tutorials/tools"
+      ]
+    },
+    {
+      "group": "Essentials",
+      "pages": [
+        "essentials/maps",
+        "essentials/mods",
+        "essentials/plugins"
+      ]
+    },
+    {
+      "group": "Pterodactyl",
+      "pages": [
+        "pterodactyl/installation",
+        "pterodactyl/best-billing-systems",
+        "pterodactyl/great-addons-and-themes",
+        "pterodactyl/hosts"
+      ]
+    },
+    {
+      "group": "Tebex",
+      "pages": [
+        "tebex/what-is-tebex",
+        "tebex/setup-tebex-store",
+        "tebex/tebex-themes"
+      ]
+    },
+    {
+      "group": "Domain",
+      "pages": [
+        "domain/free-subdomain"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/Vylx-Development/mcwiki"
+  }
+}

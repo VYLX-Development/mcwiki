@@ -1,0 +1,12 @@
+---
+title: 🏳️ Aikar's Flags
+description: Use those flags to improve your Servers performance
+---
+
+To optimize the performance and stability of your Minecraft server, it's recommended to utilize Aikar's Flags in conjunction with the Start Command Generator available at [https://docs.papermc.io/misc/tools/start-script-gen.](https://docs.papermc.io/misc/tools/start-script-gen) Aikar's Flags comprise a set of JVM arguments tailored to enhance garbage collection behavior, minimize latency spikes, and overall increase server responsiveness and durability. These arguments are particularly valuable for servers running on PaperMC, a high-performance fork of Spigot designed for Minecraft servers.
+
+For a comprehensive explanation and purpose behind each flag, you can visit [https://docs.papermc.io/paper/aikars-flags](https://docs.papermc.io/paper/aikars-flags). Here, the benefits are detailed, such as optimized heap usage, improved garbage collection timings, and reduced server stuttering. Server administrators are advised to start with Aikar's recommended settings as a base and then adjust based on the server's performance and specific needs.
+
+It is especially recommended to use flags like `-XX:+UseG1GC` for the G1 Garbage Collector, which is optimized for multicore processors and large memory environments, making it ideal for Minecraft servers. By following Aikar's recommendations, a significant boost in server performance can be achieved, resulting in smoother gameplay even on servers with high player counts or extensive worlds.
+
+By adopting the guidelines developed by Aikar, you equip your server with a solid foundation for high performance and stability. Carefully adjusting the JVM arguments according to these recommendations ensures that your Minecraft server operates under optimal conditions, leading to an enhanced player experience.

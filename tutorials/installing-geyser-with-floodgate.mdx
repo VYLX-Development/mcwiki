@@ -1,0 +1,31 @@
+---
+title: 🏝️ Installing Geyser with Floodgate
+description: A step-by-step guide to installing Geyser and Floodgate on your Minecraft server.
+---
+
+### Prerequisites
+
+Before installing Geyser and Floodgate on your Minecraft server, make sure you have the following:
+
+- A Minecraft server running on Java Edition
+- Java 8 or later installed on your server
+- Administrative access to your server
+
+### Installation Steps
+
+1. **Download the latest version of Geyser and Floodgate** from their official websites:
+   - [GeyserMC Downloads](https://geysermc.org/download)
+
+2. **Copy the downloaded Geyser and Floodgate files** to the "plugins" folder of your Minecraft server.
+
+3. **Edit the `config.yml` file** in the "plugins/Geyser" folder to customize the server port and other settings:
+   - Set `passthrough-player-counts` to `true` to enable player count syncing between Bedrock and Java editions.
+   - Set `clone-remote-port` to `true` to allow Bedrock players to connect to your server using the Java Port.
+
+4. **Restart your Minecraft server**.
+
+5. **Players on Bedrock Edition** can now connect to your server using the server's IP address and the same port number that the Java Edition is using.
+
+**Note:** If you encounter any issues during the installation process, refer to the official Geyser and Floodgate documentation for troubleshooting tips.
+
+I hope this helps you install Geyser with Floodgate on your Minecraft server.
